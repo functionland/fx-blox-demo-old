@@ -731,7 +731,7 @@ const [level , setLevel] = useState('Low')
                     <AntDesign name="poweroff" size={20} color="#fff" />
                     </View>
 
-                    <Text style={{...styles.homeText,fontSize:20}}>Turn Off</Text>
+                    <Text style={{...styles.homeText,fontSize:20}}>Online</Text>
                 </View>
                
             
